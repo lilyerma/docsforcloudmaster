@@ -4,7 +4,7 @@
 Виртуальный инстанс или виртуальная машина (ВМ) - это программная реализация физического компьютера. Запустив виртуальный инстанс выбранной конфигурации, вы получаете доступ к облачным ресурсам и сервисам, соответствующим потребностям вашего проекта.
 Инстансы определяются набором параметров, определяющих их емкость, и подлежат биллингу. Эти параметры - образ, форма и хранилище.
 
-  .. figure:: https://github.com/lilyerma/docsforcloudmaster/blob/main/doc%20pic/3.price.png?raw=true
+  .. figure:: https://github.com/lilyerma/docsforcloudmaster/blob/main/Introduction/images/3.price.png?raw=true
      :scale: 100 %
      :alt: Параметры инстанса
      :align: center 
