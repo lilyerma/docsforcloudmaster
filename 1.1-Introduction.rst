@@ -11,9 +11,9 @@ CloudMaster включает в себя следующие инструмент
    .. figure:: https://github.com/lilyerma/docsforcloudmaster/blob/main/doc%20pic/1.ui.png?raw=true 
        :scale: 10 % 
        :alt: Рисунок 1 - Веб- и мобильная версии UI
-       :name: Веб- и мобильная версии UI
+       :align: center
 
-*Рисунок 1 - Веб- и мобильная версии UI*
+       *Рисунок 1 - Веб- и мобильная версии UI*
 
   .. HINT:: 
      Доступ к элементам CloudMaster UI зависит от ваших прав в облаке, поэтому некоторые виджеты отображаются и доступны только пользователям с определенными ролями в проекте.
@@ -25,7 +25,8 @@ CloudMaster включает в себя следующие инструмент
    .. figure:: https://github.com/lilyerma/docsforcloudmaster/blob/main/doc%20pic/2.cli.png?raw=true
        :scale: 100 %
        :alt: Рисунок 2 - Интерфейс командной строки CloudMaster
+       :align: center
 
-*Рисунок 2 - Интерфейс командной строки CloudMaster*
+       *Рисунок 2 - Интерфейс командной строки CloudMaster*
 
 * **CloudMaster API** - это интерфейс прикладного программирования, который позволяет разработчикам использовать CloudMaster на разных платформах и языках.
