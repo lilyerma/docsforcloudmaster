@@ -23,7 +23,7 @@ CloudMaster включает в себя следующие инструмент
 
 * **CloudMaster CLI** предназначен для выполнения основных команд CloudMaster через удаленную командную строку путем отправки запросов API сервера с помощью REST API без необходимости установки сторонних утилит:
 
-   .. figure:: https://github.com/lilyerma/docsforcloudmaster/blob/main/doc%20pic/2.cli.png?raw=true
+   .. figure:: https://github.com/lilyerma/docsforcloudmaster/blob/main/Introduction/images/2.cli.png?raw=true
        :scale: 100 %
        :alt: Рисунок 2 - Интерфейс командной строки CloudMaster
        :align: center
