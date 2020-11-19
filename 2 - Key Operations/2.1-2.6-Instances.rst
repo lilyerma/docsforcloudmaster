@@ -16,7 +16,7 @@
 
 Все мастера настроек на Dashboard оснащены встроенной справкой, которая открывается при нажатии кнопки Info и содержит всю информацию о мастере:
 
-  .. figure:: images/4.help ui.png
+  .. figure:: images/4.helpui.png
      :scale: 100 %
      :alt: Параметры инстанса
      :align: center 
