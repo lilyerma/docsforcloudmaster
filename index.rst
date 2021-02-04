@@ -10,5 +10,5 @@
    5 - Reporting/index
    6 - Automation/index
    7 - Security Model/index
-   Permissions
-   SSH
+   Permissions/index
+   SSH/index
